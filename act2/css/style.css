@@ -54,7 +54,7 @@ h1{
     padding: 10px;
     background-color: darkgreen;  
     color: white;
-   margin-top: 20px;
+    margin-top: 15px;
  
 }
 
@@ -74,13 +74,14 @@ p{
 .container p {
     width: 400px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .container button {
     padding: 10px;
     background-color: darkgreen;
     color: white;
+    
 }
 
 .container {
@@ -90,12 +91,14 @@ p{
     
 }
 
+button:hover{
+    background-color: green;
+  }
+
 img {
-    width: 100%;
-    height: 100%;
-    border: solid 5px #304D30;
- 
-   
+    width: 100%;  
+    border: solid 10px #627254;
+    
    
     
 }
@@ -132,6 +135,4 @@ img {
     background-color: #C3E2C2;
   }
 
-  button:hover{
-    background-color: #163020;
-  }
+ 

@@ -8,7 +8,7 @@
   body {
    
     text-align: center;
-    background-image: url("background.jpg");
+    background-color: #163020;
    
 
   
@@ -19,7 +19,7 @@
   
 h3{
     font-size: 20px;
-    color: #F5E8DD;
+    color:  #88AB8E;
   
    
 
@@ -27,7 +27,7 @@ h3{
 
 .nameStyle{
     font-size: 30px;
-   color: darkgreen;
+   color: green;
    
     
 }
@@ -38,7 +38,8 @@ h2{
     
 }
 p{
-    color: lightgray;
+  
+    color: #627254;
     font-size: 20px;
     
 }

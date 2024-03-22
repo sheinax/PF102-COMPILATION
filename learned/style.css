@@ -10,6 +10,8 @@
    
     text-align: center;
     background-color: #163020;
+    font-size: 20px;
+    color: white;
 
   }
   h2{
@@ -17,28 +19,22 @@
     background-color: #88AB8E;
     text-align: center;
     font-size: 50px;
-    margin: 10px;
+    margin: 20px;
     
 
 }
 
-p{
-    color: white;
-    font-size: 20px;
-}
 
 
   article{
-
-    padding: 100px;
+    padding: 150px;
 
   }
 
   
   .navbar {
     overflow: hidden;
-  
-    
+    font-size: 16px;
     
   }
   
@@ -57,3 +53,4 @@ p{
     color: green;
     background-color: #C3E2C2;
   }
+ 

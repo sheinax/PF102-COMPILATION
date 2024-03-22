@@ -4,7 +4,7 @@ import {cards} from "./card.js"
 
 const myObj1 = {
     title : "My Projects", 
-    disc : "Welcome to my projects, where I transform code into instructions computers can understand. These projects are important and it is part of my journey as an IT student. ",
+    disc : "Welcome to my projects! These projects are important for my journey as an IT student. They help me learn and grow. Each project teaches me something new. Let's explore together!",
     btn : "About me",
     myimg : "myprofile.jpg"
 }
@@ -13,15 +13,15 @@ const myObj2 = {
     comp : "Project Completed",
 
     img1 : "project1.jpg",
-    dis1 : "This project life size personal computer  created on last semester as our final output.",
+    dis1 : "This project, called Life-Size Personal Computer, was created during our final semester in the year 2023. It was our ultimate achievement, representing months of hard work and dedication.",
     btn1 : "Learn More",
 
     img2 : "project2.jpg",
-    dis2 : "This project was a business defense. Our project is all about editing pictures and videos.",
+    dis2 : "This project was called Business Defense. Our focus was editing pictures and videos. We aimed to enhance visual content for various business needs.",
     btn2 : "Learn More",
 
     img3 : "project3.jpg",
-    dis3 : "This project is a basic php website where users can signup and log in.",
+    dis3 : "This project is a basic PHP website where users can sign up and log in. It stores data in a database, allowing users to securely access their accounts.",
     btn3 : "Learn More"
 }
 

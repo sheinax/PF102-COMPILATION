@@ -19,16 +19,14 @@ body{
     max-width: 1200px;
     margin: 0 auto;
     padding: 70px;
-    text-align: center;
-   
-   
+    text-align: center; 
 
 }
 
 img{
-    width: 80%;
-    height: 80%;
+    width: 100%;
     border: solid 10px #627254;
+
 }
 
 button{
@@ -37,14 +35,16 @@ button{
     color: white;
     padding: 10px;
     margin: 10px;
+    
 }
 
 button:hover{
-  background-color: #163020;
+  background-color: green;
 }
 
+
 .classLeft{
-    width: 50%;
+    width: 100%;
     padding: 1rem;
 }
 
