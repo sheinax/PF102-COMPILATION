@@ -1,0 +1,75 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+  
+  
+  body {
+   
+    text-align: center;
+    background-image: url("background.jpg");
+   
+
+  
+
+  }
+
+
+  
+h3{
+    font-size: 20px;
+    color: #F5E8DD;
+  
+   
+
+}
+
+.nameStyle{
+    font-size: 30px;
+   color: darkgreen;
+   
+    
+}
+h2{
+    color: #F5E8DD;
+    font-size: 50px;
+    
+    
+}
+p{
+    color: lightgray;
+    font-size: 20px;
+    
+}
+
+
+
+.navbar {
+    overflow: hidden;
+  
+    
+    
+  }
+  
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+  
+  }
+  
+  .navbar a:hover {
+    color: green;
+    background-color: #C3E2C2;
+  }
+
+  article{
+
+    padding: 200px;
+
+  }

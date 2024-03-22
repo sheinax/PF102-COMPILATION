@@ -1,0 +1,59 @@
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+  body {
+   
+    text-align: center;
+    background-color: #163020;
+
+  }
+  h2{
+    color: black;
+    background-color: #88AB8E;
+    text-align: center;
+    font-size: 50px;
+    margin: 10px;
+    
+
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
+
+
+  article{
+
+    padding: 100px;
+
+  }
+
+  
+  .navbar {
+    overflow: hidden;
+  
+    
+    
+  }
+  
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+  
+  }
+  
+  .navbar a:hover {
+    color: green;
+    background-color: #C3E2C2;
+  }
