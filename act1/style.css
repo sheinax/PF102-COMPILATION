@@ -8,7 +8,7 @@
 body{
     color: white;
     background-color: #163020;
-    font-size: 20px;
+    font-size: 1.25rem;
     
 }
 
@@ -16,7 +16,7 @@ body{
 .container {
 
     display: flex;
-    max-width: 1200px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 70px;
     text-align: center; 
@@ -57,7 +57,7 @@ button:hover{
 
 .navbar {
     overflow: hidden;
-    font-size: 16px;
+    font-size: 1rem;
     
   
     
@@ -70,7 +70,7 @@ button:hover{
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 20px;
+    padding: 20px 10px;
     text-decoration: none;
   
   }
