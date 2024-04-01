@@ -9,16 +9,15 @@
    
     text-align: center;
     background-color: #163020;
-   
-
   
-
+  
   }
 
 
   
 h3{
-    font-size: 20px;
+
+     font-size: 1.25rem; 
     color:  #88AB8E;
   
    
@@ -26,21 +25,23 @@ h3{
 }
 
 .nameStyle{
-    font-size: 30px;
+    font-size: 1.25rem;
    color: green;
    
     
 }
 h2{
     color: #F5E8DD;
-    font-size: 50px;
+    font-size: 2rem;
     
     
 }
 p{
   
     color: #627254;
-    font-size: 20px;
+    font-size: 1.25rem;
+    
+
     
 }
 
@@ -59,14 +60,18 @@ p{
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 20px;
+    padding: 20px 10px;
     text-decoration: none;
+  
+    
+   
   
   }
   
   .navbar a:hover {
     color: green;
     background-color: #C3E2C2;
+    
   }
 
   article{
