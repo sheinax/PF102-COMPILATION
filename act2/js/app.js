@@ -3,7 +3,7 @@ import {info} from "./info.js"
 import {cards} from "./card.js"
 
 const myObj1 = {
-    title : "My Projects", 
+    title : "My Portfolio", 
     disc : "Welcome to my projects! These projects are important for my journey as an IT student. They help me learn and grow. Each project teaches me something new. Let's explore together!",
     btn : "About me",
     myimg : "myprofile.jpg"
