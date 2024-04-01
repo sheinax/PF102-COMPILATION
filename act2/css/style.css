@@ -8,7 +8,7 @@
 
 body{
     background-color: #163020;
-    font-size: 20px;
+    font-size: 1.25rem;
     
 }
 
@@ -22,7 +22,7 @@ body{
 }
 
 .pic1 {
-width: 300px;
+width: 100%;
 border-radius: 50%;
 height: 300px;
 margin: 30px;
@@ -33,8 +33,8 @@ margin: 30px;
 
 
 .info {
-    width: 300px;
-    font-size: 20px;
+    width: 50%;
+    font-size: 1.25rem;
 
    
     
@@ -46,6 +46,8 @@ h1{
     color: black;
     background-color: #88AB8E;
     text-align: center;
+    font-size: 2rem;
+    margin-top: 50px;
 
 }
 
@@ -54,7 +56,7 @@ h1{
     padding: 10px;
     background-color: darkgreen;  
     color: white;
-    margin-top: 15px;
+    margin-top: 20px;
  
 }
 
@@ -62,6 +64,7 @@ h1{
 p{
     color: white;
     text-align: justify;
+   
  
     
    
@@ -72,7 +75,7 @@ p{
 }
 
 .container p {
-    width: 400px;
+    width: 100%;
     margin-top: 20px;
     margin-bottom: 10px;
 }
@@ -86,7 +89,6 @@ p{
 
 .container {
     display: flex;
-    height: 500px;
 
     
 }
@@ -106,14 +108,15 @@ img {
 .p1{
  
     margin: 10px;
-    font-size: 20px;
+    font-size: 1.25rem;
     color: white;
+    
 }
 
 
 .navbar {
     overflow: hidden;
-    font-size: 16px;
+    font-size: 1rem;
   
     
     
@@ -125,7 +128,7 @@ img {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 20px;
+    padding: 20px 10px;
     text-decoration: none;
   
   }
