@@ -1,3 +1,3 @@
-PF102- Compilation 
-Midterm 
+PF102- Compilation /
+Midterm /
 Second Sem
